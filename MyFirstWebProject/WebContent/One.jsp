@@ -14,7 +14,7 @@
 
 <tr>
      <th>First Name :</th>
-     <td> <input type = "text" name ="firstName"></td>
+     <td> <input type ="text" name ="firstName"></td>
      </tr>
      
      <tr>

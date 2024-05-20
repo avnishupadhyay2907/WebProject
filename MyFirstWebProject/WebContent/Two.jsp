@@ -8,20 +8,11 @@
 </head>
 <body>
 
-<form action="">
-
-<table>
-
-
-
-
-
-</table>
-
-
-</form>
-
-
+<h1>Two.JspPage</h1>
+	<%=request.getParameter("firstName")%>
+	<%=request.getParameter("lastName")%>
+	<%=request.getParameter("loginId")%>
+	<%=request.getParameter("password")%>
 
 </body>
 </html>
